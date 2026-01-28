@@ -1,7 +1,7 @@
-# 👋 Hi there, I'm Kavindi Disanayake
+# 👋 Hi there, I'm Kithma Disanayake
 
-🎓 Computer Security Graduate |Building Hands-On Skills Across Cybersecurity Fields
-🛡️ Passionate about Red & Blue Teaming | Malware Analysis | Pentesting  
+🎓 Computer Security Graduate | Building Hands-On Skills Across Cybersecurity Fields  
+🛡️ Passionate about Cybersecurity | Malware Analysis | Pentesting | Network Defense  
 💻 Currently working on projects: Port Scanner, OSINT Tool, DVWA Pentest  
 ✍️ Sharing knowledge via GitHub, Medium, and LinkedIn
 
@@ -9,16 +9,18 @@
 
 ## 🔭 What I’m Doing Now
 
-- 🚧 Building my Cybersecurity Portfolio 
-- 👩‍💻 Completing EC-Council Certifications
-- 🧠 Exploring tools like Metasploit, Wireshark, Burp Suite, and Python
+- 🚧 Building my Cybersecurity Portfolio  
+- 👩‍💻 Completing EC-Council Certifications  
+- 🧠 Exploring tools like Metasploit, Wireshark, Burp Suite, and Python  
 - 📚 Writing technical blogs and walkthroughs
 
 ---
 
 ## 📫 How to reach me:
 
-- 💌 Email: *kithmadissanayake2000@gmail.com*
+- 💌 Email: *kithmadissanayake2000@gmail.com*  
+- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
+- ✍️ [Medium Blog](https://medium.com/@yourusername)
 
 ---
 
